@@ -1,0 +1,17 @@
+.offerList {
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+}
+
+.offers {
+    padding: 15px;
+    color: #4682B4;
+}
+
+.offers.offer {
+    padding: 10px;
+    color: #66CDAA;
+}
+.addOffer {
+    padding: 30px;
+}
